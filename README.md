@@ -1,1 +1,5 @@
 # Traffic-Motor-Vehicle-Survellience-and-Management-System
+The vehicle counting process provides the appropriate information regarding traffic flow, the occurrence of vehicle accidents, and peak traffic hours on the road. An acceptable technology to achieve these goals is the use of digital image processing technology on the street camera's video & image output. This article introduces a vehicle counter classifier based on a combination of various video image processing methods such as object detection, edge detection, frame difference, and Kalman filter. It addresses a video-based techniques for vehicle recognition and counting based on OpenCV- a ML based technologies.
+
+Number plate recognition is an image processing technology which uses number (license) plate to identify the vehicle. The objective is to design an efficient automatic authorized vehicle identification system by using the vehicle number plate. The system can be implemented on the entrance for security control of a highly restricted area like military zones or area around top government offices.
+
